@@ -1,7 +1,5 @@
 # Syllab
 
-[![Build status](https://app.travis-ci.com/mir-one/syllab.svg?branch=master)](https://app.travis-ci.com/mir-one/syllab.svg?branch=master)
-
 Simple Python 2/3 package for breaking Russian words into syllables.
 
 ## Installation
