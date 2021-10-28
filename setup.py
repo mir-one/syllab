@@ -6,7 +6,7 @@ with io.open("README.md", mode="r", encoding='utf-8') as fh:
 
 setuptools.setup(
     name="syllab",
-    version="0.0.4",
+    version="0.0.1",
     author="Roman Inozemtsev",
     author_email="dao@mir.one",
     description="Simple Python package for breaking Russian words into syllables",
