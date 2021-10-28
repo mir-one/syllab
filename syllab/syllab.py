@@ -560,7 +560,7 @@ def apply1(s):
 
 
 if __name__ == "__main__":
-    sx = split(u"спросил")
+    sx = split(u"японский режиссёр-аниматор, продюсер, сценарист, писатель и мангака")
     print(u"|".join(sx))
 
 def split_word(word):
